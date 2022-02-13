@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/professional-card/static/css/main.f3ba7cbc.css",
+    "main.js": "/professional-card/static/js/main.f16378df.js",
+    "index.html": "/professional-card/index.html",
+    "main.f3ba7cbc.css.map": "/professional-card/static/css/main.f3ba7cbc.css.map",
+    "main.f16378df.js.map": "/professional-card/static/js/main.f16378df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3ba7cbc.css",
+    "static/js/main.f16378df.js"
+  ]
+}
